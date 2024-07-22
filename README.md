@@ -1,6 +1,4 @@
-## Hi there 
-
-### Hi there! Eu sou Brunno Assunção 😊
+## Hi there! Eu sou Brunno Assunção 😊
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunno-assun%C3%A7%C3%A3o-42a566232/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunno_la/)
